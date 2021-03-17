@@ -4,7 +4,7 @@
 	"setting.gpu_level"		"0"
 	"setting.mat_antialias"		"4"
 	"setting.mat_aaquality"		"0"
-	"setting.mat_forceaniso"		"8"
+	"setting.mat_forceaniso"		"4"
 	"setting.mat_vsync"		"0"
 	"setting.mat_triplebuffered"		"0"
 	"setting.mat_grain_scale_override"		"-1.000000"
