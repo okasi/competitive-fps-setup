@@ -1,5 +1,6 @@
-### %USERPROFILE%\Documents\My Games\Rainbow Six - Siege\
+## Rainbow Six Settings  
 
-### GameSettings.ini
+### Mouse  
 
-### MouseSensitivityMultiplierUnit=0.001932
+Open `GameSettings.ini` in `%USERPROFILE%\Documents\My Games\Rainbow Six - Siege\[userid]`  
+Change `MouseSensitivityMultiplierUnit=` value to 0.001932  
