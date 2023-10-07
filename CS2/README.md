@@ -12,3 +12,14 @@ Most Preferred CS2 Video Settings -
 - HDR: Quality
 - FSR: Disabled
 - NVIDIA Reflex: Disabled
+
+---
+```
+vprof_off
+cl_crosshair_friendly_warning 0
+cl_ragdoll_workaround_threshold 0
+cl_autohelp 0
+iv_off
+demo_flush 1
+cl_hide_avatar_images 1
+```
