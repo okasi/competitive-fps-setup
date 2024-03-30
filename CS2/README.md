@@ -14,8 +14,9 @@ Most Preferred CS2 Video Settings -
 - NVIDIA Reflex: Disabled
 
 ---
-## Mouse DPI: 800
-## Mouse Sensitivity: 1.257815
+
+### Mouse DPI: 800
+### Mouse Sensitivity: 1.257815
 
 ---
 ```
