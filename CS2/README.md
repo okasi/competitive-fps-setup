@@ -15,9 +15,9 @@ Most Preferred CS2 Video Settings -
 
 ---
 
-### Mouse DPI: 500
-### Windows Sensitivity: 6/11
-### In-Game Mouse Sensitivity: 2.51563
+### Mouse DPI: `500`
+### Windows Sensitivity: `6/11`
+### In-Game Mouse Sensitivity: `2.51563`
 
 ---
 ```
